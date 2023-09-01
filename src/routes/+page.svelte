@@ -8,6 +8,8 @@
   }
 </script>
 
+Test change
+
 <button on:click={handleClick}>
 	clicks: {count}
 </button>
